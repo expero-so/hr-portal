@@ -1,0 +1,16 @@
+{
+  "name": "hr-portal",
+  "version": "1.0.0",
+  "description": "HR Portal for Expero Solutions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build complete'"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
